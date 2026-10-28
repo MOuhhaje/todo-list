@@ -38,4 +38,4 @@ Thumbs.db
 coverage/
 
 # Optional: uncomment to keep your personal tasks out of the repo
-backend/tasks.json
+# backend/tasks.json
