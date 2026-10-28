@@ -6,7 +6,7 @@ A simple and responsive To-do List application built with React and a small Node
 
 ![Ma To-do List screenshot](./public/preview.png)
 
-> Add a screenshot at `public/preview.png` (or change the path above).
+
 
 ## Features
 
